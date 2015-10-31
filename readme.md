@@ -9,5 +9,4 @@ Compile and run MainDataServer.java (main class).
 
 License
 ----------
-
 The license can be found in the file 'LICENSE'.
